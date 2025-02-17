@@ -171,6 +171,7 @@ public class Address
         City = " ";
         Street = " ";
         Building = " ";
+        //TODO: Поменяй, пожалуйста, значение по умолчанию для квартиры.
         Apartment = 0;
     }
 }
