@@ -165,6 +165,7 @@ public class Address
     /// </summary>
     public Address()
     {
+        //TODO: Поменяй, пожалуйста, значение по умолчанию для индекса.
         Index = 000000;
         Country = " ";
         City = " ";
